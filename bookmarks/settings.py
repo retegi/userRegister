@@ -155,8 +155,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'tal5@ikaslea.easo.eus'  #Poner email de la cuente que hace de servidor de correo.
-EMAIL_HOST_PASSWORD = '91189118Ee!'  #Poner password de la cuenta que hace de servidor de correo.
+EMAIL_HOST_USER = ''  #Poner email de la cuente que hace de servidor de correo.
+EMAIL_HOST_PASSWORD = ''  #Poner password de la cuenta que hace de servidor de correo.
 
 
 
